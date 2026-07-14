@@ -1,0 +1,11 @@
+global
+{
+ZOOM 1.18
+ORIGIN 80.00 112.00 -2817.00
+ROTATED 1
+}
+layer
+{
+IMAGE "overviews/jb_snow.bmp"
+HEIGHT -2817.00
+}

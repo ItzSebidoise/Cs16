@@ -1,0 +1,12 @@
+global 
+{
+	ZOOM	0.98
+	ORIGIN	-16.00	10.00	-658.00
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/jail_bananas.bmp"
+	HEIGHT	-3401.00
+}

@@ -1,0 +1,34 @@
+L 07/12/2026 - 19:38:49: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 19:39:42: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 19:41:17: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 19:48:32: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 20:06:33: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/12/2026 - 20:06:48: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_airstrip
+L 07/12/2026 - 20:08:42: -------- Mapchange to de_airstrip --------
+L 07/12/2026 - 20:26:42: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/12/2026 - 20:26:57: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be cs_havana
+L 07/12/2026 - 20:28:51: -------- Mapchange to cs_havana --------
+L 07/12/2026 - 20:34:41: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 20:35:24: [admincmd.amxx] Cmd: "Counter-Strike 1.6 Server<0><><>" ask for players list
+L 07/12/2026 - 20:36:23: [admin.amxx] Login: "Seb1k_Jk<3><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 20:36:34: [plmenu.amxx] Cmd: "Seb1k_Jk<3><STEAM_ID_LAN><>" transfer "Seb1k_Jk<3><STEAM_ID_LAN><>" (team "TERRORIST")
+L 07/12/2026 - 20:52:40: [mapchooser.amxx] Vote: Voting for the nextmap started
+L 07/12/2026 - 20:52:55: [mapchooser.amxx] Vote: Voting for the nextmap finished. The nextmap will be de_aztec
+L 07/12/2026 - 20:54:49: -------- Mapchange to de_aztec --------
+L 07/12/2026 - 20:58:38: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 20:58:45: [admin.amxx] Login: "Seb1k_Jk<4><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 20:59:11: -------- Mapchange to jail_anka_v1 --------
+L 07/12/2026 - 20:59:12: [admin.amxx] Login: "Seb1k_Jk<4><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:01:04: -------- Mapchange to de_dust2 --------
+L 07/12/2026 - 21:01:18: [admin.amxx] Login: "Seb1k_Jk<5><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:01:52: -------- Mapchange to jail_anka_v1 --------
+L 07/12/2026 - 21:01:53: [admin.amxx] Login: "Seb1k_Jk<5><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:05:59: -------- Mapchange to jail_rats --------
+L 07/12/2026 - 21:06:00: [admin.amxx] Login: "Seb1k_Jk<5><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:10:28: -------- Mapchange to jail_bananas --------
+L 07/12/2026 - 21:10:28: [admin.amxx] Login: "Seb1k_Jk<5><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:12:46: [admin.amxx] Login: "Seb1k_Jk<7><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:13:58: -------- Mapchange to jail_xmf --------
+L 07/12/2026 - 21:13:58: [admin.amxx] Login: "Seb1k_Jk<7><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")
+L 07/12/2026 - 21:17:37: -------- Mapchange to jb_oasis --------
+L 07/12/2026 - 21:17:37: [admin.amxx] Login: "Seb1k_Jk<7><STEAM_ID_LAN><>" became an admin (account "Seb1k_Jk") (access "abcdefghijklmnopqrstu") (address "26.9.250.95")

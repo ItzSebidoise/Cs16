@@ -1,0 +1,16 @@
+maps/jail_bananas.bsp
+maps/jail_bananas.txt
+maps/jail_bananas.res
+models/jail_bananas/foilage1.mdl
+models/jail_bananas/tree.mdl
+sound/jail_bananas/321.wav
+sound/jail_bananas/click.wav
+sound/jail_bananas/explozja.wav
+sound/jail_bananas/music1.wav
+sound/jail_bananas/music2.wav
+sound/jail_bananas/music3.wav
+sound/jail_bananas/music4.wav
+sound/jail_bananas/spin.wav
+sound/jail_bananas/strzal.wav
+overviews/jail_bananas.bmp
+overviews/jail_bananas.txt
