@@ -1,0 +1,13 @@
+gfx/env/indianav3bk.tga
+gfx/env/indianav3dn.tga
+gfx/env/indianav3ft.tga
+gfx/env/indianav3lf.tga
+gfx/env/indianav3rt.tga
+gfx/env/indianav3up.tga
+sound/niftymaps/jailbreak/123_better.wav
+sound/niftymaps/jailbreak/dobry_den.wav
+sound/niftymaps/jailbreak/indiana_music_1.wav
+sound/niftymaps/jailbreak/indiana_music_2.wav
+sound/niftymaps/jailbreak/indiana_music_3.wav
+sound/niftymaps/jailbreak/indiana_music_4.wav
+sound/niftymaps/jailbreak/rrspin.wav
